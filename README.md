@@ -1,5 +1,5 @@
 # Instructions
-- git clone <project>
+- git clone git@github.com:smosgr/node-app.git
 - cd node-app/
 - node index.js
 - curl or browse to localhost:3000
