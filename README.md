@@ -1,5 +1,6 @@
 > Reference project to familiarise with technologies and concepts.
 
+[tag]: cloud-native
 
 # Involved technogogies 
 - NODE JS APP
@@ -7,6 +8,7 @@
 - DOCKER
 - K8S
 - AWS CodePipeline/CodeDeploy or Gitlab CI
+- Terraform
 
 
 # Instructions
